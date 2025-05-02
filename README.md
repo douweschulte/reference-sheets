@@ -1,6 +1,6 @@
-# Refence sheets
+# Reference sheets
 
-A collection of mass spectrometry oriented reference sheets. 
+A collection of (antibody de novo) mass spectrometry oriented reference sheets. 
 
 ## License
 
